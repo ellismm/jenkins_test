@@ -1,3 +1,3 @@
 # jenkins_test
 testing jenkins
-This is test message
+Hello from the second branch
